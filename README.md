@@ -30,16 +30,10 @@ Atualmente, procuro uma **oportunidade de estágio** na área de Desenvolvimento
 * 🗂️ **Organização:** Foco na estruturação de tarefas e cumprimento de prazos.
 * 🚀 **Vontade de Aprender:** Disposição constante para dominar novas ferramentas e tecnologias.
 
-## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bielg07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Gabriel" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielg07&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
 
 ## 📫 Como me encontrar
-- 💼 **LinkedIn:** [Acesse meu perfil aqui](#)
-- ✉️ **E-mail:** [Seu e-mail aqui](mailto:seu-email@dominio.com)
+- 💼 **LinkedIn:** [Acesse meu perfil aqui](https://www.linkedin.com/in/gabriel-gomes-8786913ba/)
 
 ---
 ⭐ *Sempre disposto a aprender, codar e evoluir!*
