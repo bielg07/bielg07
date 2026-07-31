@@ -6,7 +6,7 @@ Tenho 17 anos e sou apaixonado por tecnologia e pelo desenvolvimento de soluçõ
 
 ## 🎯 Objetivo Profissional
 
-Atualmente, procuro uma **oportunidade de estágio** na área de Desenvolvimento de Sistemas, Desenvolvimento Web, Suporte de TI ou áreas relacionadas. Meu foco é colocar em prática o que venho aprendendo no SENAI, desenvolver novas habilidades e contribuir ativamente para o sucesso da equipe.
+Atualmente, procuro uma oportunidade de estágio na área de Desenvolvimento de Sistemas, Desenvolvimento Web, Suporte de TI ou áreas relacionadas. Meu foco é colocar em prática o que venho aprendendo no SENAI, desenvolver novas habilidades e contribuir ativamente para o sucesso da equipe.
 
 ## 🛠️ Minhas Habilidades
 
