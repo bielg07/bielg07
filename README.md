@@ -25,12 +25,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado e estudado n
 
 <br>
 
-## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bielg07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Gabriel" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielg07&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
 
 ## 📫 Como me encontrar
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/gabriel-gomes-8786913ba/](#)
