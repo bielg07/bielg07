@@ -33,7 +33,7 @@ Atualmente, procuro uma **oportunidade de estágio** na área de Desenvolvimento
 
 
 ## 📫 Como me encontrar
-- 💼 **LinkedIn:** [Acesse meu perfil aqui](https://www.linkedin.com/in/gabriel-gomes-8786913ba/)
+- 💼 **LinkedIn:** [Acesse meu perfil aqui](https://www.linkedin.com/in/gabriel-gomes-de-sousa-santos-8786913ba/?isSelfProfile=true)
 
 ---
 ⭐ *Sempre disposto a aprender, codar e evoluir!*
